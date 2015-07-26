@@ -1,4 +1,4 @@
-## This function computes the inverse of the special "matrix" returned by the makeChacheMatrix function
+## This function computes the inverse of the special "matrix" returned by the   makeChacheMatrix function
 
 cacheSolve <- function(x, ...)
 
