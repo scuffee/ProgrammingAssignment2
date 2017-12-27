@@ -4,7 +4,7 @@ cacheSolve <- function(x, ...)
 
 {
 
-    ## return a matrix that is the inverse of 'x'.
+    # return a matrix that is the inverse of 'x'.
 
 
    m <- x$getInverse()
